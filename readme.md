@@ -6,3 +6,5 @@ There are 5 projects:
 3. Project2: Flack -- After Lecture 5-7
 4. Project3: Pizza -- After Lecture 8-10
 5. Project4: Final Project 
+
+This is to test merge conflict
