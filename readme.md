@@ -6,3 +6,6 @@ There are 5 projects:
 3. Project2: Flack -- After Lecture 5-7
 4. Project3: Pizza -- After Lecture 8-10
 5. Project4: Final Project 
+
+# Note: This section is to provide the update progress:
+- [20200530 SA] Finished Lecture 1 and start working on Project0
