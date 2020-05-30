@@ -9,3 +9,4 @@ There are 5 projects:
 
 # Note: This section is to provide the update progress:
 - [20200530 SA] Finished Lecture 1 and start working on Project0
+- [20200530 SA] Added a new branch Project0
