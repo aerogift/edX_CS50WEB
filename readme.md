@@ -10,3 +10,4 @@ There are 5 projects:
 # Note: This section is dedicated for individual branch (Project):
 # Project1_Homepage
 - [20200530 SA] start a new Project
+- [20200531 SA] Now I can edit from MacbookPro
