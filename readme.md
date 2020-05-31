@@ -7,6 +7,6 @@ There are 5 projects:
 4. Project3: Pizza -- After Lecture 8-10
 5. Project4: Final Project 
 
-# Note: This section is to provide the update progress:
-- [20200530 SA] Finished Lecture 1 and start working on Project0
-- [20200530 SA] Added a new branch Project0
+# Note: This section is dedicated for individual branch (Project):
+# Project1_Homepage
+- [20200530 SA]
