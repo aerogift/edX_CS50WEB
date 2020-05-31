@@ -9,4 +9,4 @@ There are 5 projects:
 
 # Note: This section is dedicated for individual branch (Project):
 # Project1_Homepage
-- [20200530 SA]
+- [20200530 SA] start a new Project
